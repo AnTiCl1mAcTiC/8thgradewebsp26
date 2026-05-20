@@ -1,0 +1,27 @@
+body {
+    background-color: lightseagreen;
+    
+}
+#ball {
+    width: 260px; height: 260px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 35% 30%, #333, #000 70%);
+    box-shadow: 0 12px 30px rgba(0,0,0,0.4);
+    display: grid; place-items: center;
+    align-self: center;
+}
+#fortune {
+    color: cornsilk;
+    font-weight: 900;
+    text-align: center;
+    padding: 0 24px;
+    max-width: 200px;
+    line-height: 1.25;
+}
+#shake-button {
+    background: #0d8f88; color: cornsilk;
+    padding: 12px 28px; border-radius: 8px;
+    font-size: 12px; font-weight: 900; cursor: pointer;
+    border-color: indigo;
+    border-width: 5px;
+}
