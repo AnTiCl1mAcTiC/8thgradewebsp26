@@ -5,6 +5,6 @@
   <li><a href=html_demo>html_demo</a></li>
   <li><a href=midterm_WEB>midterm</a></li>
   <li><a href=js_demo>js_demo</a></li>
-  <li><a href=magic_8_ball=js>magic 8 ball</a></li>
-  <li><a href=final=js>final</a></li>
+  <li><a href=magic_8_ball>magic 8 ball</a></li>
+  <li><a href=final>final</a></li>
 </ul>
